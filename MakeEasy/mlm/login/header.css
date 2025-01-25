@@ -1,0 +1,22 @@
+*{
+	margin: 0;
+	padding:0;
+	box-sizing: border-box;
+}
+.navbar{
+	padding:10px 0;
+}
+.profiles{
+	position: relative;
+	background:#017bf5;
+	color: #fff !important;
+	height: 40px;
+	width: 40px;
+	border-radius: 50%;
+	text-decoration: none !important;
+	overflow: hidden !important;
+}
+.profiles img{
+	height: 100%;
+	width: 100%;
+}

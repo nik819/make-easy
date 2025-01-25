@@ -1,0 +1,22 @@
+*{
+	margin: 0;
+	padding:0;
+	font-family: sans-serif;
+}
+form{
+	margin-top: 25%;
+	border:1px solid #017bf5;
+	border-radius: 5px;
+	padding:10px 15px;
+}
+form input{
+	outline: none !important;
+}
+form input:focus{
+	border-color: #017bf5 !important;
+	outline: none !important; 
+}
+form input[type="submit"]{
+	color: #fff;
+	font-size: 1em;
+}
